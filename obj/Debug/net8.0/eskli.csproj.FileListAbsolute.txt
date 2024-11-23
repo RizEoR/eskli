@@ -1,0 +1,14 @@
+D:\практика\tema4\eskli\bin\Debug\net8.0\eskli.exe
+D:\практика\tema4\eskli\bin\Debug\net8.0\eskli.deps.json
+D:\практика\tema4\eskli\bin\Debug\net8.0\eskli.runtimeconfig.json
+D:\практика\tema4\eskli\bin\Debug\net8.0\eskli.dll
+D:\практика\tema4\eskli\bin\Debug\net8.0\eskli.pdb
+D:\практика\tema4\eskli\obj\Debug\net8.0\eskli.GeneratedMSBuildEditorConfig.editorconfig
+D:\практика\tema4\eskli\obj\Debug\net8.0\eskli.AssemblyInfoInputs.cache
+D:\практика\tema4\eskli\obj\Debug\net8.0\eskli.AssemblyInfo.cs
+D:\практика\tema4\eskli\obj\Debug\net8.0\eskli.csproj.CoreCompileInputs.cache
+D:\практика\tema4\eskli\obj\Debug\net8.0\eskli.dll
+D:\практика\tema4\eskli\obj\Debug\net8.0\refint\eskli.dll
+D:\практика\tema4\eskli\obj\Debug\net8.0\eskli.pdb
+D:\практика\tema4\eskli\obj\Debug\net8.0\eskli.genruntimeconfig.cache
+D:\практика\tema4\eskli\obj\Debug\net8.0\ref\eskli.dll
